@@ -1,0 +1,30 @@
+{
+  "owner": "svFabio",
+  "repo": "alter-trad",
+  "project_number": 13,
+  "project_id": "PVT_kwHOCk-mm84Bq3gL",
+  "fields": {
+    "title": "PVTF_lAHOCk-mm84Bq3gLzhpMrC0",
+    "assignees": "PVTF_lAHOCk-mm84Bq3gLzhpMrC4",
+    "status": "PVTSSF_lAHOCk-mm84Bq3gLzhpMrC8",
+    "labels": "PVTF_lAHOCk-mm84Bq3gLzhpMrDA",
+    "linked_prs": "PVTF_lAHOCk-mm84Bq3gLzhpMrDE",
+    "milestone": "PVTF_lAHOCk-mm84Bq3gLzhpMrDI",
+    "repository": "PVTF_lAHOCk-mm84Bq3gLzhpMrDM",
+    "reviewers": "PVTF_lAHOCk-mm84Bq3gLzhpMrDU",
+    "parent_issue": "PVTF_lAHOCk-mm84Bq3gLzhpMrDY",
+    "sub_issues_progress": "PVTF_lAHOCk-mm84Bq3gLzhpMrDc",
+    "priority": "PVTSSF_lAHOCk-mm84Bq3gLzhpMrKg",
+    "size": "PVTSSF_lAHOCk-mm84Bq3gLzhpMrKk",
+    "estimate": "PVTF_lAHOCk-mm84Bq3gLzhpMrKo",
+    "start_date": "PVTF_lAHOCk-mm84Bq3gLzhpMrKs",
+    "target_date": "PVTF_lAHOCk-mm84Bq3gLzhpMrKw"
+  },
+  "status_options": {
+    "backlog": "f75ad846",
+    "ready": "61e4505c",
+    "in_progress": "47fc9ee4",
+    "in_review": "df73e18b",
+    "done": "98236657"
+  }
+}
